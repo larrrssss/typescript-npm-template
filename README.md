@@ -1,4 +1,4 @@
-# typescript-npm-template
+# Typescript NPM Package Template
 
 Create a typescript npm package in less than a minute
 
